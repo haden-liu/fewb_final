@@ -224,11 +224,11 @@ header .topnav .icon {
   padding-top: 1rem;
 }
 
-.popular .box-container .box .stars i{
+/* .popular .box-container .box .stars i{
   color:gold;
   font-size: 1.7rem;
   padding:1rem .1rem;
-}
+} */
 
 .gallery .box-container{
   display: flex;
