@@ -319,9 +319,6 @@ header .topnav .icon {
   background:none;
 }
 
-.order .row form .btn:hover{
-  background:var(--red);
-}
 
 .footer{
   background:#000;
