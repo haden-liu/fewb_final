@@ -304,7 +304,7 @@ header .topnav .icon {
   font-size: 1.7rem;
   color:#333;
   text-transform: none;
-  border:.1rem solid rgba(0,0,0,.3);
+  /* border:.1rem solid rgba(0,0,0,.3); */
   border-radius: .5rem;
   width:49%;
 }
