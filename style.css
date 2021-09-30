@@ -280,12 +280,12 @@ header .topnav .icon {
   flex:1 1 30rem;
 }
 
-.order .row .image img{
+/* .order .row .image img{
   height: 100%;
   width:100%;
   object-fit: cover;
   border-radius: .5rem;
-}
+} */
 
 .order .row form{
   flex:1 1 50rem;
