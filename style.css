@@ -315,6 +315,10 @@ header .topnav .icon {
   height:15rem;
 }
 
+.order .row form div .text-center {
+  text-align: center;
+}
+
 .order .row form a .btn{
   background:none;
   justify-content: center;
