@@ -315,9 +315,8 @@ header .topnav .icon {
   height:15rem;
 }
 
-.order .row form .btn{
+.order .row form a .btn{
   background:none;
-  position: absolute;
 }
 
 
