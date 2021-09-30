@@ -318,6 +318,10 @@ header .topnav .icon {
 .order .row form a .btn{
   background:none;
   justify-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 
